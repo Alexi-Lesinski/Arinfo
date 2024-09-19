@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Bw7cQ2CIhtzXfJxPUQrJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Bw7cQ2CIhtzXfJxPUQrJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A3A3A3;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="590" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="Bw7cQ2CIhtzXfJxPUQrJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5e5e5e;fillColor=#A3A3A3;" parent="1" vertex="1">
+        <mxCell id="Bw7cQ2CIhtzXfJxPUQrJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5e5e5e;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A3A3A3;" vertex="1" parent="1">
@@ -52,8 +52,8 @@
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-19" value="&lt;font color=&quot;#fcfcfc&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Message ChatGPT&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;mainText=;fillColor=#2F2F2F;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="490" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIPPXPqolnYrMpe3MKUZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="280" height="60" as="geometry" />
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A3A3A3;" vertex="1" parent="1">
+          <mxGeometry x="245" y="210" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="730" y="70" width="22.5" height="20" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-bulb-128.png;strokeColor=default;align=left;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1110" y="252.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="245" y="400" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
