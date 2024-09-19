@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
   <diagram name="Page-1" id="EcUvMIolQ7K5YZYkJxHi">
-    <mxGraphModel dx="1195" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,34 +20,34 @@
           <mxGeometry x="770" y="40" width="760" height="530" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#171717;" vertex="1" parent="1">
-          <mxGeometry x="698.75" y="40" width="190" height="530" as="geometry" />
+          <mxGeometry x="700" y="40" width="190" height="530" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-7" value="&lt;div&gt;&lt;font color=&quot;#f5f5f5&quot; style=&quot;font-size: 12px;&quot;&gt;7 jours précédent&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="700" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="720" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-8" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#fafafa&quot;&gt;Hier&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="707.5" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="680" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-9" value="&lt;div&gt;&lt;font color=&quot;#f5f5f5&quot; style=&quot;font-size: 12px;&quot;&gt;30 jours précédent&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="702.5" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="720" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Passer au plan supérieur&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="737" y="520" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-11" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 12px;&quot;&gt;[nom prompt]&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="701.25" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="706.25" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-12" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 12px;&quot;&gt;[nom prompt]&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="698.75" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="707.5" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-14" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 12px;&quot;&gt;[nom prompt]&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="700" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="707.5" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-16" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 12px;&quot;&gt;[nom prompt]&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="702.5" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="706.25" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-18" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 12px;&quot;&gt;[nom prompt]&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="170" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="708.75" y="170" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-19" value="&lt;font color=&quot;#fcfcfc&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Message ChatGPT&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;mainText=;fillColor=#2F2F2F;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="490" width="320" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="760" y="100" width="85" height="10" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-29" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1178.75" y="190" width="61.25" height="50" as="geometry" />
+          <mxGeometry x="1179" y="170" width="61.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="1080" y="498.75" width="10" height="12.5" as="geometry" />
@@ -81,6 +81,36 @@
         </mxCell>
         <mxCell id="WIPPXPqolnYrMpe3MKUZ-36" value="&lt;font color=&quot;#ffffff&quot;&gt;ChatGPT Automatique&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-37" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;Créer une peinture de la renaissanbce&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#212121;align=left;strokeColor=#696969;" vertex="1" parent="1">
+          <mxGeometry x="990" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="255" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-39" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 100%;&quot; align=&quot;left&quot;&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;Créer une charte à partir de mes données&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#212121;align=left;strokeColor=#696969;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-40" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;Créer un entrainement&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#212121;align=left;strokeColor=#696969;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-41" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;Script Python pour du reporting&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#212121;align=left;strokeColor=#696969;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-42" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="255" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-43" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="255" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-44" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="255" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-46" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="710.5" y="45" width="19.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WIPPXPqolnYrMpe3MKUZ-47" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="860" y="45" width="19.5" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
