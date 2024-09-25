@@ -1,0 +1,284 @@
+
+#noir_header{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+#orange_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32.6%;
+    background-color: rgb(255, 89, 41);
+    
+}
+.logo-a{
+    width: 75px;
+}
+
+
+header li{
+    font-size: small;
+    list-style-type: none;
+    display: inline;
+    color: white;
+    
+}
+header li a{
+    
+    text-decoration: none;
+    color:white;
+    
+}
+/* body */
+#slide{
+    display: flex;
+}
+#paul{
+    background-color: rgb(255, 89, 41);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conseil{
+    display: flex;
+    height: 20vw;
+    justify-content: center;
+    align-items: center;
+}
+
+#liste{
+    width: 300px; /* Largeur du carré */
+    height: 300px; /* Hauteur du carré */
+    background-color: #000000; /* Couleur de fond */
+    color: white; /* Couleur du texte */
+    display: flex; /* Utiliser flexbox */
+    flex-direction: column; /* Direction verticale */
+    justify-content: center; /* Centrer verticalement */
+    align-items: center; /* Centrer horizontalement */
+}
+#list h3{
+    display: flex;
+    width: 100vw;
+    padding: 20px 200px 50px 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+#adresse{
+    display: flex;
+    height: 20vw;
+    width: 50%;
+}
+#adresse p{
+    font-size: xx-large;
+    font-weight: 700;
+
+
+}
+
+#adresse{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sect{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 0 0;
+}
+
+#secteur1{
+    display: flex;
+    margin-left: 5vw;
+    justify-content: space-between;
+    padding: 0;
+    flex-wrap: wrap;
+    
+
+}
+#secteur1 li{
+    width: 45%;
+}
+
+#devis{
+    background-color: rgb(255, 89, 41);
+    height: 25vw;
+}
+#devis h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: white;
+
+}
+
+
+/* footer */
+.footer {
+    background-color: #000000; /* Fond noir pour le footer */
+    color: white; /* Texte en blanc */
+}
+
+.footer h5 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem; /* Marge inférieure pour les titres */
+}
+
+.footer ul {
+    padding-left: 0; /* Supprimer la marge gauche des listes */
+    list-style: none; /* Supprimer les puces des listes */
+}
+
+.footer a {
+    color: #fff; /* Liens en blanc */
+    text-decoration: none; /* Pas de soulignement */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Soulignement au survol */
+}
+
+.footer img {
+    max-width: 100%; /* Ajuste l'image à la taille du conteneur */
+    height: auto; /* Garde les proportions */
+    margin-bottom: 0.5rem; /* Espace sous l'image */
+}
+
+.footer p {
+    margin-bottom: 0.5rem; /* Marge inférieure pour les paragraphes */
+}
+
+.footer .bi {
+    font-size: 1.5rem; /* Taille des icônes des réseaux sociaux */
+}
+
+.footer .bi:hover {
+    color: #f0ad4e; /* Couleur différente au survol des icônes */
+}
+
+@media (max-width: 576px) {
+    #noir_header, #orange_header, .navigation ul {
+        flex-direction: column;
+    }
+
+    .navigation ul li {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    #secteur1 li {
+        width: 100%;
+    }
+
+    #devis input, #devis label {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    #noir_header {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #orange_header {
+        width: 100%;
+    }
+
+    .navigation ul {
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .navigation ul li {
+        display: inline-block;
+        padding: 5px;
+    }
+
+    #slide {
+        flex-direction: column;
+    }
+
+    #paul {
+        width: 100%;
+        height: auto;
+        padding: 10px;
+        text-align: center;
+    }
+
+    #conseil {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+        text-align: center;
+    }
+
+    #liste {
+        width: 100%;
+        height: auto;
+    }
+
+    #adresse {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px;
+        height: auto;
+    }
+
+    #secteur1 {
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #secteur1 li {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    #devis {
+        height: auto;
+        padding: 20px;
+    }
+
+    #devis h2 {
+        font-size: 1.5rem;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .footer ul {
+        padding: 0;
+    }
+
+    .footer .col-md-3 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}

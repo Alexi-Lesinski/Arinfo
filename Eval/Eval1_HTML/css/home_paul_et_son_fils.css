@@ -1,0 +1,415 @@
+
+/* Header */
+#noir_header{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    
+}
+#orange_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32.6%;
+    background-color: rgb(255, 89, 41);
+    
+}
+.logo-a{
+    width: 75px;
+}
+
+
+ header li{
+    font-size: small;
+    list-style-type: none;
+    display: inline;
+    
+}
+header li a{
+    
+    text-decoration: none;
+    color:white;
+    
+}
+
+/* Body */
+#orange_demenagement{
+    background-color:rgb(255, 89, 41);
+}
+
+
+
+#slide1{
+    background-image:url("/assets/homme-carton-camionnette.webp");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    
+}
+#slide1 p{
+    color: white;
+    margin-left: 10%;
+}
+#slide1_contact{
+    display: flex;
+    margin-left: 10%;
+}
+
+#slide1_noir{
+    background-color: black;
+    font-size: xx-small;
+    margin-bottom: 30%;
+    
+}
+#slide1_noir p{
+    display: flex;
+    margin:10px 10px 1px 10px;
+    font-weight: 650;
+    text-transform: uppercase;
+}
+
+#slide1_noir a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    margin:1px 10px 20px 10px;
+    
+}
+
+#slide1_orange{
+    background-color: rgb(255, 89, 41);
+    margin-bottom: 30%;
+    
+}
+
+
+#slide1_orange h6{
+    margin:10px 10px 1px 10px;
+    font-weight: 650;
+    text-transform: uppercase;
+    font-size: x-small;
+}
+
+#slide1_orange p{
+    font-size:50%;
+    font-weight: 500;
+    color: black;
+    margin:1px 10px 15px 10px;
+}
+
+
+#part2{
+    display: flex;
+    height: 30vw;
+}
+
+#slide2_orange{
+    background-color: rgb(255, 89, 41);
+    
+    
+}
+#slide2_orange h6{
+    color: white;
+    height: 50px;
+    margin: 155px 20px 0 100px;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+#slide2_orange p{
+    display: flex;
+    color: white;
+    margin: 0px 10px 20px 100px;
+    justify-content:center;
+    
+}
+
+#propos{
+    background-color: black;
+    width: 15vw;
+    margin:25px 20px 0 100px;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    
+}
+
+#propos a{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+}
+#slide2_livreur{
+    display: flex;
+    background-image: url("/assets/ho——e-porte-carton.webp");
+    height: 30vw;
+    width: 50%;
+    
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+#dem{
+    display: flex;
+}
+
+#dem_proximité h6{
+   font-size: x-large;
+   font-weight: 700;
+   margin: 30px 0 1px 30px;
+}
+#para{
+    margin: 00px 0 1px 30px;
+
+}
+
+
+#dem_proxi_info{
+    display: flex;
+    background-color: rgb(255, 89, 41);
+    margin: 30px 0 20px 30px;
+    width: 20%;
+    padding-top: 10px;
+    justify-content: center;
+
+
+}
+#dem_proximité img{
+    width: 100%;
+}
+#dem_distance img{
+    width: 100%;
+}
+
+#dem_distance h6{
+    font-size: x-large;
+    font-weight: 700;
+    margin: 30px 0 1px 30px;
+}
+
+#dem_distance_info{
+    display: flex;
+    background-color: rgb(255, 89, 41);
+    margin: 30px 0 20px 30px;
+    width: 20%;
+    padding-top: 10px;
+    justify-content: center;
+}
+#para2{
+    margin: 00px 0 1px 30px;
+
+}
+
+
+
+#service_stockage img{
+    width: 100%;
+}
+
+#service_stockage  h6{
+    font-size: x-large;
+    font-weight: 700;
+    margin: 30px 0 1px 30px;
+}
+
+#service_stock_info{
+    display: flex;
+    background-color: rgb(255, 89, 41);
+    margin: 30px 0 20px 30px;
+    width: 20%;
+    padding-top: 10px;
+    justify-content: center;
+}
+#paragraphe{
+    margin: 00px 0 1px 30px;
+
+}
+#emballer img{
+    width: 100%;
+}
+
+#emballer  h6{
+    font-size: x-large;
+    font-weight: 700;
+    margin: 30px 0 1px 30px;
+}
+
+#emballer_info{
+    display: flex;
+    background-color: rgb(255, 89, 41);
+    margin: 30px 0 20px 30px;
+    width: 20%;
+    padding-top: 10px;
+    justify-content: center;
+}
+#paragraphe2{
+    margin: 00px 0 1px 30px;
+
+}
+
+
+#ser{
+    background-image: url(/assets/2hommes-portent-un-meuble.webp);
+    height: 50%;
+    margin: 5% 5% 0 5%;
+}
+
+#ser p{
+    display: flex;
+    height: 100%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+#confiance{
+    display: flex;
+}
+
+#longue{
+    background-color: black;
+    color: white;
+    margin-left: 4.4%;
+    height: 5vw;
+}
+
+#longue p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: large;
+  font-weight: 700;
+}
+#assurance p{
+    background-color: rgb(255, 89, 41);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: large;
+    font-weight: 700;
+}
+#recommandation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: large;
+    font-weight: 700;
+
+
+}
+
+#satisfait{
+    display: flex;
+    width: 100%;
+    height: 5%;
+}
+#satisfait p{
+    display: flex;
+    height: 5vw;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+#avis{
+
+    margin-left: 25%;
+}
+
+#cliente{
+    display: flex;
+    width: 100%;
+    font-weight: 700;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo_partenaire{
+    margin-top: 6vw;
+    justify-content: space-around;
+    display: flex;
+}
+
+#devis{
+    background-color: rgb(255, 89, 41);
+    height: 20vw;
+}
+#devis h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: white;
+
+}
+
+
+#dev{
+    display: flex;
+}
+
+#formulaire{
+    background-color: rgb(255, 89, 41);
+}
+
+#devis ul li{
+    list-style-type: none;
+}
+
+/* footer */
+.footer {
+    background-color: #000000; /* Fond noir pour le footer */
+    color: white; /* Texte en blanc */
+}
+
+.footer h5 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem; /* Marge inférieure pour les titres */
+}
+
+.footer ul {
+    padding-left: 0; /* Supprimer la marge gauche des listes */
+    list-style: none; /* Supprimer les puces des listes */
+}
+
+.footer a {
+    color: #fff; /* Liens en blanc */
+    text-decoration: none; /* Pas de soulignement */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Soulignement au survol */
+}
+
+.footer img {
+    max-width: 100%; /* Ajuste l'image à la taille du conteneur */
+    height: auto; /* Garde les proportions */
+    margin-bottom: 0.5rem; /* Espace sous l'image */
+}
+
+.footer p {
+    margin-bottom: 0.5rem; /* Marge inférieure pour les paragraphes */
+}
+
+.footer .bi {
+    font-size: 1.5rem; /* Taille des icônes des réseaux sociaux */
+}
+
+.footer .bi:hover {
+    color: #f0ad4e; /* Couleur différente au survol des icônes */
+}

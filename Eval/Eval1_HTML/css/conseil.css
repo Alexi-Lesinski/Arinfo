@@ -1,0 +1,75 @@
+#noir_header{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    
+}
+#orange_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32.6%;
+    background-color: rgb(255, 89, 41);
+    
+}
+.logo-a{
+    width: 75px;
+}
+
+
+header li{
+    font-size: small;
+    list-style-type: none;
+    display: inline;
+    
+}
+header li a{
+    
+    text-decoration: none;
+    color:white;
+    
+}
+/* footer */
+.footer {
+    background-color: #000000; /* Fond noir pour le footer */
+    color: white; /* Texte en blanc */
+}
+
+.footer h5 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem; /* Marge inférieure pour les titres */
+}
+
+.footer ul {
+    padding-left: 0; /* Supprimer la marge gauche des listes */
+    list-style: none; /* Supprimer les puces des listes */
+}
+
+.footer a {
+    color: #fff; /* Liens en blanc */
+    text-decoration: none; /* Pas de soulignement */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Soulignement au survol */
+}
+
+.footer img {
+    max-width: 100%; /* Ajuste l'image à la taille du conteneur */
+    height: auto; /* Garde les proportions */
+    margin-bottom: 0.5rem; /* Espace sous l'image */
+}
+
+.footer p {
+    margin-bottom: 0.5rem; /* Marge inférieure pour les paragraphes */
+}
+
+.footer .bi {
+    font-size: 1.5rem; /* Taille des icônes des réseaux sociaux */
+}
+
+.footer .bi:hover {
+    color: #f0ad4e; /* Couleur différente au survol des icônes */
+}
+
