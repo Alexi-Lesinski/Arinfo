@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+/* Je sais pas pourquoi il y a un margin bottom malgré le * mais why not */
+#paragraph{
+    margin-bottom: 0; 
+    
+}
+#container{
+    flex-direction: column;
+
+}
+
+#titleContent{
+    padding-right: 10px;
+}
+
+
+#authorContent,#titleContent{
+    margin: 15px 0 15px 0;
+}
